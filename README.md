@@ -1,4 +1,71 @@
 # Academy-LMS-Plugin-Manual-Testing
+
+
+
+Comprehensive documentation for the testing of [Academy LMS](https://academylms.net/), detailing the approach, processes, and tools used to ensure high-quality and reliable application performance.
+
+---
+
+
+## Introduction
+This document provides an in-depth guide for testing Academy LMS, outlining the approach to ensure a robust and high-quality learning management system.
+
+## Web Page Overview
+[Academy LMS](https://academylms.net/) is a comprehensive learning platform designed for managing, delivering, and tracking educational content.
+
+## Purpose
+The purpose of this testing process is to validate the functionality, performance, and security of the platform to ensure a seamless user experience.
+
+## Scope of Testing
+The testing covers all aspects of the LMS, including functionality, usability, compatibility, performance, security, and accessibility.
+
+## Plan of Action
+
+#### Tests to Perform
+1. **Smoke or Sanity Testing**: Basic functionality checks.
+2. **Functionality Testing**: Ensures each feature works as expected.
+3. **Usability Testing**: Validates the user-friendliness of the platform.
+4. **Compatibility Testing**: Tests cross-browser and device compatibility.
+5. **Performance Testing**: Evaluates response times under load.
+6. **Security Testing**: Identifies and mitigates security vulnerabilities.
+7. **Link Testing**: Checks for broken or incorrect links.
+8. **Accessibility Testing**: Ensures compliance with accessibility standards.
+9. **Regression Testing**: Confirms that changes do not affect existing functionality.
+10. **API Testing**: Verifies the functionality and reliability of APIs.
+
+## Test Diagram
+Provides a visual representation of the testing process.
+### Validation
+Ensures all test cases meet predefined requirements.
+
+## User Acceptance Testing
+Involves end-users to validate the application's readiness for deployment.
+
+## Defect Reporting Procedure
+Defines the steps to identify, log, and resolve defects.
+
+## Schedule Table
+Includes a timeline of testing activities.
+
+## Testing Tools
+- JIRA
+- Postman
+- BrowserStack
+- JMeter
+
+## Defect or Bug Fixing
+The process of addressing and resolving reported defects.
+
+## Recommendations
+Suggestions for improving application quality and user experience.
+
+## Acknowledgement
+Gratitude to the team and contributors who made this testing process a success.
+
+---
+
+For additional details, visit the official [Academy LMS](https://academylms.net/) website.
+
 # Test Plan
 ![TestPlan](https://github.com/rezaul525/Academy-LMS-Plugin-Manual-Testing/assets/59533863/b96d6edb-f2df-4078-9baa-39cf4ae1471b)
 # Mind Mapping With Xmind
@@ -34,9 +101,7 @@
 # Bug Screenshot(Didnt match exact Plugin with search filtering) 
 ![resualtshowing](https://github.com/rezaul525/Academy-LMS-Plugin-Manual-Testing/assets/59533863/9f273ac0-558c-421a-80d3-fb4aed71be1c)
 
-# Improvrment Suggestion
 
-![imp](https://github.com/rezaul525/Academy-LMS-Plugin-Manual-Testing/assets/59533863/48393eb5-587b-4964-a2a0-5df279a238a2)
 
 
 
